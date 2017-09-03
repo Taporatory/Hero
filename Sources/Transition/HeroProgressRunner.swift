@@ -21,6 +21,7 @@
 // THE SOFTWARE.
 
 import Foundation
+import QuartzCore
 
 protocol HeroProgressRunnerDelegate: class {
   func updateProgress(progress: Double)

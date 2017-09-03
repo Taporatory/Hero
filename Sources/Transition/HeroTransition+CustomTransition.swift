@@ -21,6 +21,7 @@
 // THE SOFTWARE.
 
 import Foundation
+import UIKit
 
 // custom transition helper, used in hero_replaceViewController
 public extension HeroTransition {

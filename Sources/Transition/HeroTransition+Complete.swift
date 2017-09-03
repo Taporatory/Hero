@@ -21,6 +21,7 @@
 // THE SOFTWARE.
 
 import Foundation
+import UIKit
 
 extension HeroTransition {
   open func complete(finished: Bool) {
